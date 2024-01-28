@@ -18,7 +18,7 @@ export default function About() {
             <h3>Backend Developer</h3>
             <p className={styles.description}>
               I have experience developing fast and optimised back-end systems
-              and APIs
+              and APIs.
             </p>
           </div>
         </li>
