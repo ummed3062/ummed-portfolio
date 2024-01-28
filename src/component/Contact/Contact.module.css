@@ -1,0 +1,28 @@
+@import "../../vars.css";
+
+.container {
+  color: var(--color-bg);
+  margin-top: 70px;
+  background-color: rgba(27, 27, 27, 0.6);
+  display: flex;
+  justify-content: space-evenly;
+  padding: 10px 10%;
+  
+}
+
+.footercopyright {
+  justify-content: center;
+  padding: 4px;
+}
+
+
+@media screen and (max-width: 830px) {
+  .container {
+    margin-top: 60px;
+    padding: 10px 1%;
+    
+  }
+  .footercopyright {
+    font-size: 13px;
+  }
+}

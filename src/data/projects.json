@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Banking Application",
+    "imageSrc": "projects/micro.png",
+    "description": "This is a banking application that uses microservices architecture to manage financial transactions. ",
+    "skills": ["SpringBoot", "Microservices", "MySQL"],
+    "demo": "https://github.com/ummed3062/Banking-App",
+    "source": "https://github.com/ummed3062/Banking-App"
+  },
+  {
+    "title": "Recruitment Platform",
+    "imageSrc": "projects/Job.png",
+    "description": "Platform is beneficial for college students, various companies visiting the campus for recruitment and even the college placement officer.",
+    "skills": ["Java", "Servlet", "Jsp", "HTML","CSS","MySQL"],
+    "demo": "https://github.com/ummed3062/RecruitmentManagingPlatform",
+    "source": "https://github.com/ummed3062/RecruitmentManagingPlatform"
+  },
+  {
+    "title": "Blogging Application APIs",
+    "imageSrc": "projects/REST3.webp",
+    "description": "Created REST APIs, incorporating user creation, user role, post, comment, and post category functionalities.",
+    "skills": ["SpringBoot", "JWT", "Hibernate","MySQL"],
+    "demo": "https://github.com/ummed3062",
+    "source": "https://github.com/ummed3062"
+  }
+]

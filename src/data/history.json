@@ -1,0 +1,31 @@
+[
+  {
+    "role": "Associate Software Engineer",
+    "organisation": "Nagarro",
+    "startDate": "Jul, 2022",
+    "endDate": "Present",
+    "experiences": ["Developed and executed multiple projects assigned by the Training Team", "Implement REST API using microservice architecture.", "Developed a Spring Boot REST API integrating with third-party APIs to filter and deliver targeted data.", "Developed a Java-based Notification System with support for multiple notification channels, employing design patterns for enhanced extensibility and maintainability"],
+    "imageSrc": "history/nagarro.png"
+  },
+  {
+    "role": "Java Developer",
+    "organisation": "Careerthon",
+    "startDate": "Dec, 2021",
+    "endDate": "May, 2022",
+    "experiences": ["Trained on various emerging technologies for the role of Java Developer", "Responsible for related to Java issues for Trainee.", "Discovered and fixed programming bugs."],
+    "imageSrc": "history/Careerthon.png"
+  },
+  {
+    "role": "Tranee",
+    "organisation": "Linux World",
+    "startDate": "Jun, 2019",
+    "endDate": "Aug, 2019",
+    "experiences": [
+      "Learned many technologies during the training period",
+      "Linux, Docker, Augement Reality",
+      "Developed a Unity Application using Augumented reality"
+      
+    ],
+    "imageSrc": "history/lw.png"
+  }
+]
