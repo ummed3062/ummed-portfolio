@@ -46,21 +46,6 @@ export const Hero = () => {
               {"Resume"}
             </a>
           </li>
-          
-            {/* <div>
-              {showIframe ? (
-                <iframe
-                  src={googleDriveFileURL}
-                  width="640"
-                  height="480"
-                  allow="autoplay"
-                ></iframe>
-              ) : (
-                <button onClick={handleButtonClick}>
-                  Open Google Drive File
-                </button>
-              )}
-            </div> */}
         
         </ul>
       </div>
