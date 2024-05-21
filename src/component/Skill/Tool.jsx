@@ -4,7 +4,11 @@ export const Tool = () => {
     const skills = [
         'Postman',
         'Figma',
+        'GitHub',
+        'Jira',
+        'Miro',
         'ChatGPT',
+        'Notion',
         'Visual Studio code',
         'Spring tool suite',
         // Add more skills here

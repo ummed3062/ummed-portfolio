@@ -4,7 +4,10 @@
     "organisation": "Nagarro",
     "startDate": "Jul, 2022",
     "endDate": "Present",
-    "experiences": ["Developed and executed multiple projects assigned by the Training Team", "Implement REST API using microservice architecture.", "Developed a Spring Boot REST API integrating with third-party APIs to filter and deliver targeted data.", "Developed a Java-based Notification System with support for multiple notification channels, employing design patterns for enhanced extensibility and maintainability"],
+    "experiences": [" Developed and executed multiple projects assigned by the Training Team, Achieved an on-time delivery rate of 95% by utilizing Agile methodologies and delivering software modules within tight deadlines.",
+     "REST API integrating with third-party APIs to filter and deliver targeted data and enhance application performance by 15%.",
+     "Implemented a Java-based Notification System with support for multiple notification channels, employing design patterns for enhanced extensibility and maintainability.",
+     " Integrated the Payment Gateway with Spring boot."],
     "imageSrc": "history/nagarro.png"
   },
   {
@@ -12,7 +15,9 @@
     "organisation": "Careerthon",
     "startDate": "Dec, 2021",
     "endDate": "May, 2022",
-    "experiences": ["Trained on various emerging technologies for the role of Java Developer", "Responsible for related to Java issues for Trainee.", "Discovered and fixed programming bugs."],
+    "experiences": [" Trained on emerging technologies, addressed Java issues for trainees, and fostered hands-on learning in cutting-edge Java development.", 
+    "Resolved critical bugs and issues through meticulous debugging and testing, ensuring a bug fix success rate of 95%."
+  ],
     "imageSrc": "history/Careerthon.png"
   },
   {

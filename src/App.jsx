@@ -2,6 +2,7 @@
 import styles from './App.module.css'
 import About1 from './component/About/About1'
 import { Contact } from './component/Contact/Contact'
+import Education from './component/Education/Education'
 import { Experience } from './component/Experience/Experience'
 import { Hero } from './component/Hero/Hero'
 import { Navbar } from './component/Navbar/Navbar'
@@ -16,6 +17,7 @@ function App() {
         <Hero/>
         <About1 />
         <Experience />
+        <Education />
         <Skill />
         <Projects />
         <Contact />

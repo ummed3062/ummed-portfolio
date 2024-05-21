@@ -4,6 +4,7 @@ import { Frontend } from "./Frontend";
 import { Backend } from "./Backend";
 import { Others } from "./Others";
 import { Tool } from "./Tool";
+import { Deployment } from "./Deployment";
 
 export const Skill = () => {
   return (
@@ -12,6 +13,7 @@ export const Skill = () => {
       <div className={styles.skills_container}>
         <Backend />
         <Frontend />
+        <Deployment />
         <Others />
         <Tool />
       </div>

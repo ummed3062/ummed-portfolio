@@ -41,7 +41,7 @@ export const Hero = () => {
             </a>
           </li>
           <li className={styles.resume}>
-            <a className={styles.text} target="_blank"  href="https://drive.google.com/file/d/1r9CcurGQ8TODP0cCA_K5KqJJU0j_RZqQ/preview"
+            <a className={styles.text} target="_blank"  href="https://drive.google.com/file/d/1CjIml2dxRpbQqXF2-n6NIqc8SLi4PBX3/view?usp=drive_link"
 >
               {"Resume"}
             </a>
