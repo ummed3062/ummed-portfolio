@@ -37,9 +37,12 @@
   font-style: italic;
   font-size: 25px;
   /* font-family: var(--font-roboto); */
-  margin-bottom: 52px;
+  margin-bottom: 25px;
   font-family: Graphik Web,Helvetica Neue,Helvetica,Arial,Verdana,sans-serif;
  
+}
+.connect{
+  font-size: 30px;
 }
 
 .contactBtn {
@@ -86,6 +89,7 @@
   display: flex;
   align-items: center;
   gap: 25px;
+  height: 50px
 }
 
 .resume{

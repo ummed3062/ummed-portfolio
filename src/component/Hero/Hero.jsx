@@ -15,19 +15,28 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm Ummed</h1>
+        <h1 className={styles.title}>Hi, I'm Ummed </h1>
         <p className={styles.description}>
           Passionate about implementing and launching new projects. Ability to
-          translate business requirements into technical solutions
+          translate business requirements into technical solutions.
         </p>
         <ul className={styles.links}>
          
           <li className={styles.link}>
-            <a href="https://www.linkedin.com/in/ummed-singh-a4901717b/" target="_blank">
+            <a href="https://www.instagram.com/ummed.singh3062/" target="_blank">
               {" "}
               <img
-                src={getImageUrl("contact/linkedinIcon.png")}
-                alt="LinkedIn icon"
+                src={getImageUrl("contact/insta1.png")}
+                alt="Instagram icon"
+              />
+            </a>
+          </li>
+          <li className={styles.link}>
+            <a href="https://x.com/ummedsingh3062?t=ScXV7H9c0SM1nrhznloZ-A&s=09" target="_blank">
+              {" "}
+              <img
+                src={getImageUrl("contact/twitter40.png")}
+                alt="Twitter icon"
               />
             </a>
           </li>
@@ -35,19 +44,17 @@ export const Hero = () => {
             <a href="https://github.com/ummed3062" target="_blank">
               {" "}
               <img
-                src={getImageUrl("contact/githubIcon.png")}
+                src={getImageUrl("contact/github2.png")}
                 alt="Github icon"
               />
             </a>
           </li>
-          <li className={styles.resume}>
-            <a className={styles.text} target="_blank"  href="https://drive.google.com/file/d/1CjIml2dxRpbQqXF2-n6NIqc8SLi4PBX3/view?usp=drive_link"
->
-              {"Resume"}
-            </a>
-          </li>
+        
+        </ul>
+
         
-        </ul>
+        
+        
       </div>
       <img
         src={getImageUrl("hero/ummedImage4.png")}
